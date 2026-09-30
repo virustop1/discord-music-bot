@@ -1,0 +1,23 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "Discord Music Bot with YouTube Search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "music", "bot", "youtube"],
+  "author": "virus",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1",
+    "discord-player": "^6.7.0",
+    "play-dl": "^1.9.7",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

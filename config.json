@@ -1,0 +1,11 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "prefix": "!",
+  "voiceChannelId": "YOUR_VOICE_CHANNEL_ID_HERE",
+  "embedColor": "#5865F2",
+  "maxVolume": 150,
+  "stayInVoice": true,
+  "autoReconnect": true,
+  "searchResults": 5,
+  "embedFooter": "by virus"
+}
